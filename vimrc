@@ -20,3 +20,4 @@ set t_Co=256            " 256 color terminals
 let mapleader=","     " use comma to start user-defined (in plugins) functions
 set cursorline
 hi CursorLine cterm=NONE ctermbg=254 ctermfg=NONE
+syntax on
